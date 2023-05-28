@@ -48,9 +48,13 @@
     
     [Ulbi TV](https://www.youtube.com/@UlbiTV)
     
+    
     [Диджитализируй!](https://www.youtube.com/@t0digital)
     
+    
     [Школа Больших Данных](https://www.youtube.com/@BigDataSchool)
+    
+    
 
 ### Бесплатные курсы
 
