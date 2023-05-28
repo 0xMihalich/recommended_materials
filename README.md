@@ -44,22 +44,18 @@
 
 ### Каналы на Youtube
 
-    [Prime Soft](https://www.youtube.com/@PrimeSoft)
-    
-    [Ulbi TV](https://www.youtube.com/@UlbiTV)
-    
-    
-    [Диджитализируй!](https://www.youtube.com/@t0digital)
-    
-    
-    [Школа Больших Данных](https://www.youtube.com/@BigDataSchool)
-    
-    
+[Prime Soft - Уроки SQL с новичка до профессионала. Базы данных, ORACLE, MySQL, MS SQL Server. Уроки программирования. Microsoft Excel, уроки Эксель. Delphi.](https://www.youtube.com/@PrimeSoft)
+
+[Ulbi TV - Канал Fullstack разработчика Ульби Тимура. Видео уроки по программированию, много полезного по разным темам, javascript, backend, frontend, базы данных, алгоритмы и многое другое!](https://www.youtube.com/@UlbiTV)
+
+[Диджитализируй! - Канал Алексея Голобурдина, основателя digitalize.team и Salesbeat, много полезного, интересная подача материала.](https://www.youtube.com/@t0digital)
+
+[Школа Больших Данных - Видео канал учебного центра «Школа Больших Данных»  (ООО "Учебный центр "Коммерсант")](https://www.youtube.com/@BigDataSchool)
 
 ### Бесплатные курсы
 
-  [Упражнения по SQL. Практическое владение языком SQL](https://www.sql-ex.ru)
+[Упражнения по SQL. Практическое владение языком SQL](https://www.sql-ex.ru)
   
-  [Хендбуки Академии Яндекса. Бесплатные онлайн-учебники для тех, кто хочет освоить ключевые IT-дисциплины](https://academy.yandex.ru/handbook)
+[Хендбуки Академии Яндекса. Бесплатные онлайн-учебники для тех, кто хочет освоить ключевые IT-дисциплины](https://academy.yandex.ru/handbook)
   
-  [LeetCode. A New Way to Learn](https://leetcode.com)
+[LeetCode. A New Way to Learn](https://leetcode.com)
