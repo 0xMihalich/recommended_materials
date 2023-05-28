@@ -41,15 +41,16 @@
             Чистая архитектура. Искусство разработки программного обеспечения [2018]
             Чистый Agile. Основы гибкости [2020]
 </details>
+
 ### Каналы на Youtube
 
-    [Prime Soft - Уроки SQL с новичка до профессионала. Базы данных, ORACLE, MySQL, MS SQL Server. Уроки программирования. Microsoft Excel, уроки Эксель. Delphi.](https://www.youtube.com/@PrimeSoft)
+    ["Prime Soft - Уроки SQL с новичка до профессионала. Базы данных, ORACLE, MySQL, MS SQL Server. Уроки программирования. Microsoft Excel, уроки Эксель. Delphi."](https://www.youtube.com/@PrimeSoft)
     
-    [Ulbi TV - Канал Fullstack разработчика Ульби Тимура. Видео уроки по программированию, много полезного по разным темам, javascript, backend, frontend, базы данных, алгоритмы и многое другое!](https://www.youtube.com/@UlbiTV)
+    ["Ulbi TV - Канал Fullstack разработчика Ульби Тимура. Видео уроки по программированию, много полезного по разным темам, javascript, backend, frontend, базы данных, алгоритмы и многое другое!"](https://www.youtube.com/@UlbiTV)
     
-    [Диджитализируй! - Канал Алексея Голобурдина, основателя digitalize.team и Salesbeat, много полезного, интересная подача материала.](https://www.youtube.com/@t0digital)
+    ["Диджитализируй! - Канал Алексея Голобурдина, основателя digitalize.team и Salesbeat, много полезного, интересная подача материала."](https://www.youtube.com/@t0digital)
     
-    [Школа Больших Данных - Видео канал учебного центра «Школа Больших Данных»  (ООО "Учебный центр "Коммерсант")](https://www.youtube.com/@BigDataSchool)
+    ["Школа Больших Данных - Видео канал учебного центра «Школа Больших Данных»  (ООО "Учебный центр "Коммерсант")"](https://www.youtube.com/@BigDataSchool)
 
 ### Бесплатные курсы
 
