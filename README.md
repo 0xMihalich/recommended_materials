@@ -56,10 +56,7 @@
 	        https://www.youtube.com/@BigDataSchool
 </details>
 <details><summary>Бесплатные курсы</summary>
-    [Упражнения по SQL. Практическое владение языком SQL](https://www.sql-ex.ru)
-
-    [Хендбуки Академии Яндекса. Бесплатные онлайн-учебники для тех, кто хочет освоить ключевые IT-дисциплины](https://academy.yandex.ru/handbook)
-
-    [LeetCode. A New Way to Learn](https://leetcode.com)
-
+    ![Упражнения по SQL. Практическое владение языком SQL](https://www.sql-ex.ru)
+    ![Хендбуки Академии Яндекса. Бесплатные онлайн-учебники для тех, кто хочет освоить ключевые IT-дисциплины](https://academy.yandex.ru/handbook)
+    ![LeetCode. A New Way to Learn](https://leetcode.com)
 </details>
